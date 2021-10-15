@@ -36,7 +36,7 @@ function App() {
 
 	return (
 		<div className="App">
-			<div className="container">
+			<div className="container-liquid">
 				<div className="row">
 					<PrevNextNodes nodes={prevNodes} onNodeChange={handleNodeChange} />
 					<NowNode node={nowNode} />

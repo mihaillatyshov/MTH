@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route("/get_node/<int:id>", methods=["GET"])
 def get_node(id):
-    return jsonify({"node" : {"id" : id, "desc" : GP.GetNodes()[id]}})
+    return jsonify({"node" : {"id" : id, "name" : GP.GetNodes()[id]}})
 
 @app.route("/get_nodes/<string:sids>", methods=["GET"])
 def get_nodes(sids):
@@ -19,7 +19,7 @@ def get_nodes(sids):
 	for id in ids:
 		if id == '':
 			continue
-		Nodes.append({"id" : int(id), "desc" : GP.GetNodes()[int(id)]})
+		Nodes.append({"id" : int(id), "name" : GP.GetNodes()[int(id)]})
 
 	return jsonify({"nodes" : Nodes})
 
@@ -32,13 +32,13 @@ def get_nodes_count():
 def get_comments(id):
 	Prev = []
 	Next = []
-	ids = GP.GetPrevNext(id)
-	for pid in ids["Prev"]:
-		Prev.append({"id" : pid, "desc" : GP.GetNodes()[int(pid)]})
-	for nid in ids["Next"]:
-		Next.append({"id" : nid, "desc" : GP.GetNodes()[int(nid)]})
+	edges = GP.GetPrevNext(id)
+	for pedge in edges["Prev"]:
+		Prev.append({"id" : pedge["id"], "name" : GP.GetNodes()[int(pedge["id"])], "desc" : pedge["desc"]})
+	for nedge in edges["Next"]:
+		Next.append({"id" : nedge["id"], "name" : GP.GetNodes()[int(nedge["id"])], "desc" : nedge["desc"]})
 
-	return jsonify({"nodes" : {"Prev" : Prev, "Now" : {"id" : id, "desc" : GP.GetNodes()[int(ids["Now"])]}, "Next" : Next}})
+	return jsonify({"nodes" : {"Prev" : Prev, "Now" : {"id" : id, "name" : GP.GetNodes()[int(edges["Now"])]}, "Next" : Next}})
 	
 
 if __name__ == "__main__":

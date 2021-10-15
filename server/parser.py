@@ -36,9 +36,9 @@ class GraphParser:
 		Next = []
 		for edge in self.__edges:
 			if edge["source"] == id:
-				Next.append(edge["target"])
+				Next.append({"id" : edge["target"], "desc" : edge["desc"]})
 			if edge["target"] == id:
-				Prev.append(edge["source"])
+				Prev.append({"id" : edge["source"], "desc" : edge["desc"]})
 		return ({"Now" : id, "Prev" : Prev, "Next" : Next})	
 	
 
