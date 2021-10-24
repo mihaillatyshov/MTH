@@ -1,16 +1,10 @@
 import React from 'react'
 import Node from './Node'
 
-const NowNode = ( {node, onNodeChange} ) => {
+const NowNode = ( {node} ) => {
 	return (
-		<div className="col-4">
-			{
-				(typeof node === 'undefined') ? (
-					<div>Loading...</div>
-				) : (
-					<Node node={node} onNodeChange={() => {}}/>
-				)
-			}
+		<div className="col-5">
+			<Node node={node}/>
 		</div>
 	)
 }
