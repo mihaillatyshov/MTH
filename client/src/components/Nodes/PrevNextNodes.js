@@ -1,16 +1,11 @@
 import React from 'react'
-import Node from './Node'
+import NodesGroup from './NodesGroup'
 
-const PrevNodes = ( {nodes, onNodeChange} ) => {
+const PrevNodes = ( {nodesPrev, nodesNext} ) => {
 	return (
 		<div className="col">
-			{
-				nodes.map((node) => (
-					<div key={node.id}>
-						<Node node={node} onNodeChange={onNodeChange}/>
-					</div>
-				))
-			}
+			<NodesGroup nodes={nodesNext} title="Next"/>
+			<NodesGroup nodes={nodesPrev} title="Prev"/>
 		</div>
 	)
 }

@@ -1,0 +1,31 @@
+
+.nodesGroup {
+	max-height : 35vh;
+	border: 1px solid #aaaaaa;
+}
+
+.nodesTitle {
+	margin-top: 10px;
+}
+
+.nowNode {
+	margin-top: 15px;
+}
+
+.node {
+	outline: none;
+	text-decoration: none;
+	color: #000000;
+}
+
+.node:hover {
+	color: #777777;
+}
+
+.star {
+	height: 22px;
+}
+
+.star:hover {
+	cursor: pointer;
+}
