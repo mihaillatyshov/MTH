@@ -167,3 +167,39 @@ INFO:werkzeug: * Debugger PIN: 703-722-232
 INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:23:24] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
 INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:23:25] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
 INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:23:34] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 860-421-092
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:43:33] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:44:35] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 860-421-092
+INFO:app:TEST logged in successfully
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:46:08] "POST /api/v1/auth/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:46:16] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 860-421-092
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 860-421-092
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:46:59] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:47:16] "[33mPOST /api/v1/auth/login/login HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 860-421-092
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 860-421-092
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:48:31] "[33mPOST /api/v1/auth/login/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:48:33] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:48:42] "[33mPOST /api/v1/auth/login/login HTTP/1.1[0m" 404 -

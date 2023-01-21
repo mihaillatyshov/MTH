@@ -36,7 +36,7 @@ auth = Blueprint("auth", __name__)
 """
 auth api
 """
-@auth.route("/api/v1/auth/login", methods=["POST"])
+@auth.route("/api/v1/auth/login", methods=["POST", "GET"])
 def login():
     try:
         data = request.get_json(force=True)
@@ -77,6 +77,6 @@ def index(current_user):
     except Exception as e:
         return jsonify(500, f"Error occured in {e}")
 
-@auth.route("/api/v1/auth/islogin", methods=["POST"])
+@auth.route("/api/v1/auth/islogin", methods=["GET"])
 def is_login():
-    return jsonify({ "isAuth" : 1 })
+    return jsonify({ "isAuth" : False })
