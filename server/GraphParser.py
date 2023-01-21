@@ -44,3 +44,4 @@ class GraphParser:
 
 
 GP = GraphParser("./res/Polytech_total.xgml")
+# print(GP)

@@ -1,0 +1,169 @@
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/db.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 06:54:38] "[33mPOST /api/v1/auth/registe HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 06:54:47] "[33mPOST /api/v1/auth/registester HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 06:55:07] "POST /api/v1/auth/register HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 06:58:51] "POST /api/v1/auth/register HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/db.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/db.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 06:59:45] "POST /api/v1/auth/register HTTP/1.1" 200 -
+INFO:app:Error module 'jwt' has no attribute 'encode' occured
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:01:11] "[35m[1mPOST /api/v1/auth/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:app:Error module 'jwt' has no attribute 'encode' occured
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:02:50] "[35m[1mPOST /api/v1/auth/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:app:Error module 'jwt' has no attribute 'encode' occured
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:03:18] "[35m[1mPOST /api/v1/auth/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:app:Error module 'jwt' has no attribute 'encode' occured
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:03:52] "[35m[1mPOST /api/v1/auth/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:app:Error module 'jwt' has no attribute 'encode' occured
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:04:17] "[35m[1mPOST /api/v1/auth/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:app:Error module 'jwt' has no attribute 'encode' occured
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:05:03] "[35m[1mPOST /api/v1/auth/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:app:Error module 'jwt' has no attribute 'encode' occured
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:05:31] "[35m[1mPOST /api/v1/auth/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:app:Error module 'jwt' has no attribute 'encode' occured
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:05:53] "[35m[1mPOST /api/v1/auth/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:app:Error module 'jwt' has no attribute 'encode' occured
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:06:58] "[35m[1mPOST /api/v1/auth/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:app:TEST logged in successfully
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:08:41] "POST /api/v1/auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:12:28] "[33mGET /islogin HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:12:32] "[33mGET /islogin HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:12:35] "[33mGET /islogin HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:12:36] "[33mGET /islogin HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:12:58] "[33mGET /islogin HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:13:02] "[33mGET /islogin HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:13:07] "[33mGET /islogin HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:13:10] "[33mGET /get_prev_next/0 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:14:18] "[33mGET /islogin HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:15:10] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:15:10] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:15:15] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:15:22] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:20:49] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:20:57] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_auth.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:22:31] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:22:32] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 703-722-232
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:23:24] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:23:25] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 07:23:34] "[31m[1mGET /api/v1/auth/islogin HTTP/1.1[0m" 405 -

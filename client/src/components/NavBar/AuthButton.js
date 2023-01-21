@@ -11,7 +11,7 @@ const AuthButton = () => {
 
 	useEffect(() => {
 		ServerAPI_GET({ 
-			url:"/islogin",
+			url:"/api/v1/auth/islogin",
 			onDataReceived : (data) => {
 				setLoginContext({isAuth : data.isAuth})
 				console.log(data)
