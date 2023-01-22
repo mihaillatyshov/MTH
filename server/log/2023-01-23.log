@@ -1,0 +1,218 @@
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:40:46] "[33mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:41:48] "[35m[1mGET /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:42:32] "GET /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:45:03] "GET /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:45:43] "GET /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:47:43] "GET /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:48:11] "[35m[1mGET /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:48:27] "GET /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:50:10] "GET /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:50:40] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+WARNING:app:Exeption 'some_text' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:57:09] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+WARNING:app:Exeption Iterable over raw text documents expected, string object received. ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:57:52] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+WARNING:app:Exeption Iterable over raw text documents expected, string object received. ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:58:06] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+WARNING:app:Exeption 'function' object has no attribute 'vectorize' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:58:35] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 01:59:21] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:00:14] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:03:58] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:04:29] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:04:54] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/suggestion.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:05:39] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-279-966
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:06:08] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:06:09] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:06:31] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -

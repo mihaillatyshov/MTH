@@ -1,11 +1,14 @@
 from flask import Flask
 from flask_cors import CORS
 from api_auth import auth
+from api_graph import graph
 
 
 app = Flask(__name__)
 app.register_blueprint(auth)
+app.register_blueprint(graph)
 CORS(app)
+
 
 if __name__ == "__main__":
     app.run(port = 3444, debug = True)
