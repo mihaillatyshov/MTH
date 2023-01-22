@@ -11,8 +11,7 @@ engine = create_engine(f"postgresql://{db_username}:{db_password}@localhost:5432
 Base = declarative_base()
 Session = sessionmaker(bind=engine)
 
-
-"""People"""
+"""Users"""
 class User(Base):
     __tablename__ = "user"
     id = Column(Integer, primary_key=True)
@@ -23,7 +22,7 @@ class User(Base):
     password = Column(String, nullable=False)
     confirmed = Column(Integer, nullable=False)
 
-    def __init__(self, last_name, first_name, username, email, password, confirmed):
+    def __init__(self, last_name, first_name, username, email, password, confirmed) -> None:
         self.last_name = last_name
         self.first_name = first_name
         self.username = username
@@ -31,5 +30,14 @@ class User(Base):
         self.password = password
         self.confirmed = confirmed
         
+
+class Node(Base):
+    __tablename__ = "nodes"
+    id = Column(Integer, primary_key=True)
+    value = Column(String, nullable=False)
+
+    def __init__(self, value) -> None:
+        self.value = value
+
 Base.metadata.create_all(engine)
 session = Session()
