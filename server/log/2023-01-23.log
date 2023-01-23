@@ -216,3 +216,234 @@ INFO:werkzeug: * Debugger PIN: 135-279-966
 INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:06:08] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:06:09] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 02:06:31] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 861-462-466
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:03:15] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 861-462-466
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 861-462-466
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 861-462-466
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:03:54] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:01] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:01] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:01] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:01] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:01] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:01] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:01] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:01] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:01] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:18] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:04:25] "[33mOPTIONS /api/v1/graph/suggestion/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:06] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:06] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:07] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:07] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:07] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:07] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:07] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:47] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:47] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:48] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:48] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:48] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:48] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:50] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:50] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:51] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:53] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:05:53] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:15] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:16] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:21] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:21] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:21] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:21] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:22] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:22] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:23] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:30] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:30] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:31] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:31] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:31] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:31] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:31] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:32] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:56] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:56] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:06:59] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:07:00] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:03] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:13] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:18] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:18] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:18] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:18] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:24] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:26] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:26] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:26] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:33] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:34] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:09:34] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:13] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:19] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:19] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:19] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:19] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:19] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:55] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:55] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:55] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:55] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:55] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:56] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:59] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:12:59] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:13:00] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:13:00] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:13:00] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:14:42] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:14:42] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:14:43] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:14:43] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:14:43] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:14:53] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:14:53] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:15:16] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:15:16] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:15:16] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:15:17] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:15:17] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:16:06] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:16:06] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:16:11] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:33] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:35] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:35] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:36] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:36] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:36] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:36] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:37] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:37] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:37] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:37] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:37] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:37] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:37] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:38] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:38] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:39] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:39] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:39] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:46] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:39:46] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:40:04] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+WARNING:app:Exeption 'list' object has no attribute 'lower' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:40:04] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:40:10] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:40:10] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:40:13] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:40:15] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:40:24] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:40:24] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 'search' ocured
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:40:24] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 861-462-466
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:44:39] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:44:45] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:44:45] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:44:47] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:44:48] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:44:51] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:44:51] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:44:52] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:44:52] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:45:17] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:45:17] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:48:17] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:48:56] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:49:09] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:49:11] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:49:11] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:49:11] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:49:11] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:49:54] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:50:07] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:50:07] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:50:07] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:10] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:10] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:10] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:12] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:15] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:15] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:15] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:16] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:17] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:17] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:17] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:18] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:18] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:18] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:19] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:19] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:19] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:20] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:20] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:21] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:21] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:21] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:22] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:22] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:23] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:24] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:24] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:24] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:24] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:24] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:24] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:30] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:32] "OPTIONS /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:32] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:33] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:34] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:34] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:35] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:35] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:35] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:51:36] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:53:28] "[33mPOST /api/v1/auth/login/login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jan/2023 04:53:44] "[33mGET /get_prev_next/0 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 861-462-466

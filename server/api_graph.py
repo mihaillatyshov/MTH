@@ -1,5 +1,5 @@
-from flask import Blueprint, Flask, abort, jsonify, make_response, request, abort
-from flask import current_app
+from flask import Blueprint, Flask, abort, jsonify, make_response, request, abort, current_app
+from flask_cors import CORS
 from datetime import date, datetime, timedelta
 from functools import wraps
 import os
@@ -33,6 +33,7 @@ def token_required(f):
     return decorated
 
 graph = Blueprint("graph", __name__)
+CORS(graph)
 """
 api graph
 """
@@ -40,7 +41,7 @@ api graph
 def get_recommedation():
     try:
         data_received = request.get_json()["search"]
-        data = "some text"
+        print(data_received)
         responce = suggestion(data_received)
         return jsonify({"result": responce}) 
     except Exception as e:

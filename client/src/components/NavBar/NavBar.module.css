@@ -4,6 +4,11 @@
 
 .logo {
 	height: 35px;
+	transition: 0.5s all ease-in-out;
+}
+
+.logo:hover {
+	transform: scale(1.2);
 }
 
 .authBtn {
