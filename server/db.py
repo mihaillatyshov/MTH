@@ -13,7 +13,7 @@ Session = sessionmaker(bind=engine)
 
 """Users"""
 class User(Base):
-    __tablename__ = "user"
+    __tablename__ = "users"
     id = Column(Integer, primary_key=True)
     last_name = Column(String, nullable=False)
     first_name = Column(String, nullable=False)

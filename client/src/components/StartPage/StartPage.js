@@ -4,12 +4,10 @@ import './StartPage.css';
 
 const StartPage = () => {
 	return (
-		<>
-			<div className='main-banner'>
-				Welcome to knowledge point	
-				<Search />
-			</div>	
-		</>
+		<div className='main-banner'>
+			<h2>Welcome To Knowledge Point</h2>
+			<Search />
+		</div>	
 	)
 }
 

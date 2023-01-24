@@ -20,12 +20,11 @@ def test():
 
 
 def suggestion(data):
-    vals = GP.GetNodes()
+    nodes = session.query(Node).all()
+    vals = [node.value for node in nodes]
     vals.append(data)
-    # print(vals[-1])
     vectors = vectorize(vals)
     B = vectors[-1]
-    # print(B)
     results = {}
     similar = []
     for i in range(len(vectors)):
@@ -39,3 +38,4 @@ def suggestion(data):
     for name in range(len(res)):
         reccomedations.append(vals[name])
     return reccomedations
+
