@@ -1,1 +1,1 @@
-# MTH
+# Project by Daniil Gofman and Michael Latychov(project from hackathon MTH 2021)
