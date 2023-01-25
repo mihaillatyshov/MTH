@@ -1,0 +1,295 @@
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:14:53] "GET /get_prev_next/0 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:16:09] "GET /api/v1/graph/get_prev_next/0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:17:19] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:17:22] "GET /api/v1/graph/get_prev_next/0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:17:26] "GET /api/v1/graph/get_prev_next/2032 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:17:26] "[33mGET /graph/logo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:17:28] "GET /api/v1/graph/get_prev_next/0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:23:54] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:26:11] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:30:56] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:30:57] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:28] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:29] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:29] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:29] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:29] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:29] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:30] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:31] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:31] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:31] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:31] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:31] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:35] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:35] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:35] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:35] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:35] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:31:36] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:33:41] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:33:57] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:39:24] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:44:55] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption string indices must be integers ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:45:00] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:48:26] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:48:27] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:48:27] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:50:09] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:50:18] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:50:19] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:50:24] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:50:25] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:50:33] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:50:34] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:08] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:08] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:11] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:13] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:14] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:44] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:44] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:47] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:47] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:47] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:47] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:51:47] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:52:15] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:52:15] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:52:21] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:52:21] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:52:59] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:52:59] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:53:03] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:53:03] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:53:03] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:53:03] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:53:03] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:53:32] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:53:32] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:54:49] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:54:49] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:54:49] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:54:49] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:54:49] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:04] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:04] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:04] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:04] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:04] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:06] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:06] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:06] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:06] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:06] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:41] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:41] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:41] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:42] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:57:42] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:58:53] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:58:53] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:35] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:35] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:35] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:35] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:35] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:51] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:51] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:51] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:51] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:58] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:58] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:58] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:58] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 00:59:58] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:00:06] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:00:36] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:00:36] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:00:36] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+WARNING:app:Exeption 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0) ocured
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:00:36] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:00:36] "[35m[1mPOST /api/v1/graph/suggestion HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:02:01] "POST /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:02:01] "POST /test HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/CS/CodeCompetitons/MTH/server/api_graph.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug: * Running on http://127.0.0.1:3444/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 853-737-683
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:02:54] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:02:54] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:02:54] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:02:54] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:02:54] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:03:24] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:03:24] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:03:28] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:03:28] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:03:29] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:03:29] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:03:29] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:04:34] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:04:34] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:04:35] "POST /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:04:35] "POST /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:05:11] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:05:11] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:07:38] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:08:27] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:08:29] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:08:29] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:08:29] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:09:06] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:09:08] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:09:08] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:09:28] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:09:55] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:09:57] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:10:01] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:14:21] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:16:19] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:18:08] "[33mGET /babel/parser/lib/index.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:20:52] "GET /api/v1/graph/get_prev_next/0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:22:11] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:24:58] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:27:31] "GET /api/v1/auth/islogin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:28:10] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:29:03] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:16] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:17] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:17] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:18] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:18] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:18] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:46] "GET /api/v1/graph/get_prev_next/0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:48] "GET /api/v1/graph/get_prev_next/42 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:49] "GET /api/v1/graph/get_prev_next/110 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:30:59] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jan/2023 01:31:00] "POST /api/v1/graph/suggestion HTTP/1.1" 200 -
