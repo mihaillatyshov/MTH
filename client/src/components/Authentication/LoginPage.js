@@ -13,22 +13,20 @@ const LoginPage = () => {
 	const handleSubmit = (e) => {
 		e.preventDefault()
 		ServerAPI_POST({
-			url : "/login",
+			url : "/api/v1/auth/login/login",
 			sendObj : {
 				email : email,
 				password : password,
 			},
 			handleStatus : (result) => {
-				if (result.status === 422)
-				{
+				if (result.status === 422) {
 					console.log("Status", result.status)
 					setMessage(result.data.message)
 				}
 			},
 			onDataReceived : (data) => {
 				setLoginContext({isAuth : data.isAuth})
-				if (data.isAuth)
-				{
+				if (data.isAuth) {
 					history.push("/")	
 				}
 			}

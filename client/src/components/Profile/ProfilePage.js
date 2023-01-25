@@ -4,8 +4,6 @@ import ProfileNav from './ProfileNav';
 
 const ProfilePage = () => {
 
-
-
 	return (
 		<div className="container">
 			<div className="row">
