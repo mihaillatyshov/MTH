@@ -4,27 +4,22 @@ import './Search.css'
 
 const Search = () => {
   const [data, getData] = useState([])
-  const dataSender = (input, e) => {
-    const body = JSON.stringify({search: input.target.value})
-    const requestHeaders = new Headers({
-      "Content-Type": "application/json",
-      "Content-Length": JSON.stringify(body).length
-    })
-    console.log(JSON.stringify({search: input.target.value}))
+  const dataSender = (e) => {
+    // console.log(JSON.stringify({search: e.target}))
+    console.log(e.target.text)
     ServerAPI_POST({
 			url : "/api/v1/graph/suggestion",
       sendObj: {
-        search: input.target.value
+        search: e.target.input
       },
 			onDataReceived : (res) => {
-        console.log(res.result);
         getData(res.result);
       }
 		})
   }
   return (
       <form className='suggestion'>
-        <input type="text" onChange={(e) => { dataSender(e);}}/>
+        <input type="text" onChange={dataSender}/>
         <div className='results'>
         {data.map((val, i) => (
           <div  key={i}>

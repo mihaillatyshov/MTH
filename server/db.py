@@ -20,15 +20,7 @@ class User(Base):
     username = Column(String, nullable=False)
     email = Column(String, nullable=False)
     password = Column(String, nullable=False)
-    confirmed = Column(Integer, nullable=False)
-
-    def __init__(self, last_name, first_name, username, email, password, confirmed) -> None:
-        self.last_name = last_name
-        self.first_name = first_name
-        self.username = username
-        self.email = email
-        self.password = password
-        self.confirmed = confirmed
+    confirmed = Column(Integer, nullable=False, default=0)
         
 
 class Node(Base):
@@ -36,8 +28,6 @@ class Node(Base):
     id = Column(Integer, primary_key=True)
     value = Column(String, nullable=False)
 
-    def __init__(self, value) -> None:
-        self.value = value
 
 Base.metadata.create_all(engine)
 session = Session()
