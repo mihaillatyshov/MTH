@@ -5,12 +5,11 @@ import './Search.css'
 const Search = () => {
   const [data, getData] = useState([])
   const dataSender = (e) => {
-    // console.log(JSON.stringify({search: e.target}))
-    console.log(e.target.text)
+    console.log(e.target.value)
     ServerAPI_POST({
 			url : "/api/v1/graph/suggestion",
       sendObj: {
-        search: e.target.input
+        search: e.target.value
       },
 			onDataReceived : (res) => {
         getData(res.result);
@@ -18,16 +17,16 @@ const Search = () => {
 		})
   }
   return (
-      <form className='suggestion'>
-        <input type="text" onChange={dataSender}/>
-        <div className='results'>
-        {data.map((val, i) => (
-          <div  key={i}>
-            <li>Вам может быть интересно: { val }</li>
-          </div>
-        ))}
+    <form className='suggestion'>
+      <input type="text" onChange={dataSender}/>
+      <div className='results'>
+      {data.map((val, i) => (
+        <div  key={i}>
+          <li>Вам может быть интересно: { val }</li>
         </div>
-      </form>
+      ))}
+      </div>
+    </form>
   )
 }
 export default Search;

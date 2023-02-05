@@ -12,12 +12,12 @@ from suggestion import *
 
 session = Session()
 
-graph = Blueprint("graph", __name__)
+graph = Blueprint("graph", __name__, url_prefix="/api/v1/graph")
 CORS(graph)
 """
 api graph
 """
-@graph.route("/api/v1/graph/suggestion", methods=["POST", "GET"])
+@graph.route("/suggestion", methods=["POST", "GET"])
 def get_recommedation():
     try:
         if not request.json:
@@ -53,7 +53,7 @@ def get_nodes_count():
     return {"nodesCount" : len(GP.GetNodes())}
 
 
-@graph.route("/api/v1/graph/get_prev_next/<int:id>", methods=["GET"])
+@graph.route("/get_prev_next/<int:id>", methods=["GET"])
 def get_comments(id):
 	Prev = []
 	Next = []
