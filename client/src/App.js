@@ -3,7 +3,7 @@ import NavBar from './components/NavBar/NavBar'
 import Nodes from './components/Nodes/Nodes'
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import ProfilePage from './components/Profile/ProfilePage';
-import StartPage from './components/StartPage';
+import StartPage from './components/StartPage/StartPage';
 import PageNotFound from './components/PageNotFound';
 import { LoginContext, setLoginContextChange } from './contexts/LoginContext';
 import LoginPage from './components/Authentication/LoginPage';

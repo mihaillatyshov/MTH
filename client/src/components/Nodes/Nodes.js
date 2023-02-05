@@ -7,12 +7,10 @@ import { useParams } from 'react-router'
 const Nodes = () => {
 	const [nodes, setNodes] = useState(undefined)
 	const params = useParams();
-
-
 	const getPrevNext = (id) => {
 		console.log(id ? id : 0)
 		ServerAPI_GET({
-			url : "/get_prev_next/" + (id ? id : 0),
+			url : "/api/v1/graph/get_prev_next/" + (id ? id : 0),
 			onDataReceived : (data) => setNodes(data.nodes)
 		})
     }
@@ -20,10 +18,6 @@ const Nodes = () => {
     useEffect(() => {
         getPrevNext(params.id)
     }, [params.id])
-
-	//const handleNodeChange = (id) => {
-	//	getPrevNext(id)
-	//}
 
 	return (
 		<div>

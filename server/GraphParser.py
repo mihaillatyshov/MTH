@@ -44,3 +44,6 @@ class GraphParser:
 
 
 GP = GraphParser("./res/Polytech_total.xgml")
+# print(GP.GetPrevNext(8))
+# for node in GP.GetPrevNext():
+# 	print(node)

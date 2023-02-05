@@ -1,0 +1,49 @@
+*,
+*:before,
+*:after{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.suggestion {
+  height: 520px;
+  width: 800px;
+  background-color: #f7f7f7b7;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 60%;
+  left: 50%;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255,255,255,0.1);
+  box-shadow: 0 0 40px rgba(8,7,16,0.6);
+  padding: 50px 35px;
+}
+
+.suggestion h2{
+  width: 300px;
+  background-color: #f7f7f7b7;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 20%;
+  left: 50%;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255,255,255,0.1);
+  box-shadow: 0 0 40px rgba(8,7,16,0.6);
+  padding: 50px 35px;
+}
+
+.suggestion input {
+  height: 40px;
+  width: 600px;
+  position: absolute;
+  left: 10%;
+}
+
+.suggestion .results {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}

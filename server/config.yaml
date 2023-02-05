@@ -1,0 +1,10 @@
+database:
+  username:
+    daniel
+  password:
+    admin
+  dbname:
+    mth2021
+app:
+  secret_key:
+    helloworld
